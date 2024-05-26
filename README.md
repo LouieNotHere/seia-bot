@@ -11,4 +11,5 @@
 - etc.
 
 <h1 align="center">Contributors</h1>
-<p align="center">no widget yet, looking for one</p>
+<p><b>Developer: </b>Nekomata Rin (@nekorin727 in Discord / NekomataRin in GitHub)</p>
+<p><b>Co-developer: </b> Louie Kurenai (@paytouse in Discord / LouieNotHere or PayToUse in GitHub)
