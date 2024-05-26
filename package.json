@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.52",
+    "chalk": "^4.1.0",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "mongoose": "^6.0.2",
+    "node-cron": "^3.0.3"
+  }
+}
